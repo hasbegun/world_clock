@@ -1,16 +1,11 @@
 # world_time
 
-A new Flutter project.
+This is a simple world time Flutter example for fun.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Open Android Studio and load and launch.
+It can be compiled in iOS, Android, Mac, and web app.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](https://github.com/hasbegun/world_time/screenshots/main/web-screenshot_1.png?raw=true)
+![alt text](https://github.com/hasbegun/world_time/screenshots/main/web-screenshot_2.png?raw=true)
