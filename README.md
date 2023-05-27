@@ -1,4 +1,4 @@
-# world_time
+# World Time
 
 This is a simple world time Flutter example for fun.
 
